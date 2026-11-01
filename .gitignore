@@ -1,0 +1,21 @@
+# Ficheiro de variáveis de ambiente (Credenciais e Senhas)
+.env
+
+# Ambientes Virtuais do Python
+.venv/
+venv/
+env/
+ENV/
+
+# Ficheiros de Cache e Compilação do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ficheiros do Ambiente de Desenvolvimento / IDEs (VS Code / PyCharm)
+.vscode/
+.idea/
+
+# Dados e Volumes Locais
+*.sqlite3
+postgres_data/
